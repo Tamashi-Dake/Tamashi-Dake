@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## What I'm Up To
 - 💻 I’m currently working on [Todenu](https://code-menu.vercel.app/)
+- 🤔 Planning to build a music streaming service 
 
 ## Also available at:
 - 📫 [LinkedIn](https://www.linkedin.com/in/tamashi-dake-abc123/)
