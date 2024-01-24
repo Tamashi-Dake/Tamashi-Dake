@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vu Ngoc Chinh (aka Tamashi or Dake Takeshi) 
+### Hi there 👋, I'm Vu Ngoc Chinh (aka Takeshi or Dake Tamashi) 
 
 ## About Me
 - 🌍 Living in Ha Noi, Vietnam
@@ -6,7 +6,7 @@
 - 🔭 Studying to become a Full Stack Developer 
 
 ## What I'm Up To
-- 💻 I’m currently working on [Smuss](Small music streaming service)
+- 💻 I’m currently working on [Smuss]([Small music streaming service](https://github.com/Tamashi-Dake/smuss-beta))
 
 
 ## Also available at:
