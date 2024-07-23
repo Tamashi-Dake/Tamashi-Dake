@@ -7,7 +7,7 @@
 
 ## What I'm Up To
 <!-- - 💻 I’m currently working on [Smuss]([Small music streaming service](https://github.com/Tamashi-Dake/smuss-beta)) -->
-- 💻 I’m currently looking for an internship
+- 💻 I’m currently doing an internship
 
 ## Also available at:
 - 📫 [LinkedIn](https://www.linkedin.com/in/tamashi-dake-abc123/)
