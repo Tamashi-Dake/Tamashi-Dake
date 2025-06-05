@@ -6,8 +6,7 @@
 - 🔭 Studying to become a Full Stack Developer 
 
 ## What I'm Up To
-<!-- - 💻 I’m currently working on [Smuss]([Small music streaming service](https://github.com/Tamashi-Dake/smuss-beta)) -->
-- 💻 I’m currently doing an internship
+- 💻 I’m currently working as a React Developer
 
 ## Also available at:
 - 📫 [LinkedIn](https://www.linkedin.com/in/tamashi-dake-abc123/)
