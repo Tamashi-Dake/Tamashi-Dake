@@ -9,4 +9,4 @@
 - 💻 I’m currently working as a React Developer
 
 ## Also available at:
-- 📫 [LinkedIn](https://www.linkedin.com/in/tamashi-dake-abc123/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/chinhvn8921/)
