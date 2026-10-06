@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vu Ngoc Chinh (aka Takeshi or Dake Tamashi) 
+### Hi there 👋, I'm Dake Tamashi (aka Takeshi) 
 
 ## About Me
 - 🌍 Living in Ha Noi, Vietnam
@@ -7,6 +7,3 @@
 
 ## What I'm Up To
 - 💻 I’m currently working as a React Developer
-
-## Also available at:
-- 📫 [LinkedIn](https://www.linkedin.com/in/chinhvn8921/)
